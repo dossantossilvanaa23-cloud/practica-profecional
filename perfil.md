@@ -1,1 +1,1 @@
-buenas tardes soy silvana dos santos mi proyecto se basa en el diseño de un sistema web de turnos para una peluqueria curso 2do año dde analista programador ciclo lectivo 2026
+buenas tardes soy silvana dos santos mi proyecto se basa en el diseño de un sistema web de turnos para una peluqueria curso 2do año dde analista programador ciclo lectivo 2026 los obejtivos principales de mi proyecto son automatizar tareas innnovar nuevo metodo de gestionar turnos reducir espera y mejorar la calidad del cliente
